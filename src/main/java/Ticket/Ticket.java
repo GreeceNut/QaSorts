@@ -1,6 +1,7 @@
 package Ticket;
 
 import java.util.Objects;
+
 public class Ticket implements Comparable<Ticket> {
 
     private String from; // аэропорт откуда
