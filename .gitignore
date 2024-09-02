@@ -38,3 +38,9 @@ build/
 .DS_Store
 
 .idea/
+src/test/java/TTest
+src/test/java/TTest2
+src/main/java/TTest
+src/main/java/TTest2
+src/main/java/Ticket
+src/test/java/Ticket
